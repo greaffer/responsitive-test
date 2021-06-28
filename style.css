@@ -9,6 +9,7 @@ html {
 body {
   background: hsl(0, 0%, 90%);
   height: auto;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .header-text h1, .header-text p {
   text-align: center;
